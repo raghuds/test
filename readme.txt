@@ -1,0 +1,1 @@
+Hi this test project for git config
